@@ -16,6 +16,10 @@
 
 ---
 
+### 자바스크립트 관련 학습 링크
+- [What is the Instance?](https://playcode.io/2317224) 74-75 pp.
+- [Javascript function and method](https://playcode.io/2317407) 103-104 pp.
+
 ### 학습 내용 회고
 
 - Vue.js는 The Progressive JavaScript Framework 이다(공식문서에서...)
