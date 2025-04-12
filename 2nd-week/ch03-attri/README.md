@@ -24,7 +24,7 @@ function callbackFn(accumulator, currentValue, currentIndex, array) {
 
 ```javascript
 
-// 참고: https://v2.vuejs.org/v2/api/#vm-watch
+// 참고: https://vuejs.org/api/options-state.html#watch
 // 깊은 감시자 속성 사용 형식
 watch: {
     // 감시할 데이터나 계산된 속성명 (ex. inputStr, arr, obj, ...)
