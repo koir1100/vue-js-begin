@@ -1,29 +1,15 @@
-# ch07
+### 7장 컴포지션 API 다루기
 
-This template should help get you started developing with Vue 3 in Vite.
+#### 7.1 컴포지션 API란
 
-## Recommended IDE Setup
+#### 7.2 컴포지션 API의 기본 구성 요소
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+##### 7.2.1 반응형 데이터 정의하기
 
-## Customize configuration
+##### 7.2.2 템플릿 ref
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+##### 7.2.3 계산된 속성
 
-## Project Setup
+##### 7.2.4 함수 정의
 
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+##### 7.2.5 감시자 속성
