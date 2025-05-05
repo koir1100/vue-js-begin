@@ -1,29 +1,23 @@
-# ch08-extra
+### 8장 뷰 라우터로 라우팅 기능 사용하기
 
-This template should help get you started developing with Vue 3 in Vite.
+#### 8.2 뷰 라우터의 추가 기능 사용하기
 
-## Recommended IDE Setup
+- 동적 경로 매칭
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- 매개변수 가져오기
 
-## Customize configuration
+- 예외 처리
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+- 프로그래밍 방식 탐색
 
-## Project Setup
+- 이름이 있는 경로
 
-```sh
-npm install
-```
+- 중첩 경로
 
-### Compile and Hot-Reload for Development
+- 이름이 있는 뷰
 
-```sh
-npm run dev
-```
+- 경로 컴포넌트에 props 전달하기
 
-### Compile and Minify for Production
+- 리다이렉트
 
-```sh
-npm run build
-```
+- 별칭

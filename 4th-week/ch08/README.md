@@ -1,29 +1,13 @@
-# ch08
+### 8장 뷰 라우터로 라우팅 기능 사용하기
 
-This template should help get you started developing with Vue 3 in Vite.
+#### 8.1 뷰 라우터 다루기
 
-## Recommended IDE Setup
+- 뷰 라우터 설치
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- 라우팅 컴포넌트 생성
 
-## Customize configuration
+- 라우터 인스턴스 생성 및 등록
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+- 라우터 인스턴스 사용 등록
 
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+- 뷰 라우터 사용하기
